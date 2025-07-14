@@ -1,19 +1,35 @@
-# Open Source Supply Chain Management Tools
+# Supply Chain Management Tools
 
-This repository provides an overview of free and open source software options for supply chain management. These tools can help businesses of all sizes manage inventory, track materials, and optimize their supply chain processes.
+> Part of the [Atlas Bear Labs](https://github.com/atlas-bear) operational toolkit
+
+**Complete Intelligence Ecosystem:**
+
+- [OSINT Tools](https://github.com/atlas-bear/osint-tools) - Track vessels, containers, and supply chain movements
+- [Recommended Reading](https://github.com/atlas-bear/recommended-reading) - Essential books on global trade and logistics
+- [OSINT AI Guide](https://github.com/atlas-bear/osint-ai-guide) - Automate supply chain intelligence
+- [MARA Platform](https://github.com/atlas-bear/mara) - Integrated maritime security analysis
+
+---
+
+Free and open source software options for supply chain management in emerging markets. These tools can help businesses of all sizes manage inventory, track materials, and optimize their supply chain processes.
 
 ## Table of Contents
-1. [Apache OFBiz](#apache-ofbiz)
-2. [OpenBoxes](#openboxes)
-3. [OpenLMIS](#openlmis)
-4. [Odoo](#odoo)
-5. [xTuple](#xtuple)
+
+- [Supply Chain Management Tools](#supply-chain-management-tools)
+  - [Table of Contents](#table-of-contents)
+  - [Apache OFBiz](#apache-ofbiz)
+  - [OpenBoxes](#openboxes)
+  - [OpenLMIS](#openlmis)
+  - [Odoo](#odoo)
+  - [xTuple](#xtuple)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Apache OFBiz
 
 - **Description**: A suite of business tools including warehouse management, fulfillment, order, and manufacturing management.
 - **Best for**: Midsize to large operations requiring a customizable solution.
-- **Key Features**: 
+- **Key Features**:
   - Warehouse management
   - Fulfillment
   - Order management
