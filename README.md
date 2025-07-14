@@ -24,6 +24,7 @@ Free and open source software options for supply chain management in emerging ma
   - [xTuple](#xtuple)
   - [Contributing](#contributing)
   - [License](#license)
+  - [Atlas Bear Ecosystem](#atlas-bear-ecosystem)
 
 ## Apache OFBiz
 
@@ -98,3 +99,17 @@ Know of a good open source supply chain management tool that we left off? Feel f
 ## License
 
 This README and list is provided under [MIT License](LICENSE). However, each tool has its own license, as indicated in the descriptions above.
+
+---
+
+## Atlas Bear Ecosystem
+
+| Repository                                                                                   | Purpose                             | Status                                                                                        |
+| -------------------------------------------------------------------------------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------- |
+| [osint-tools](https://github.com/atlas-bear/osint-tools)                                     | Maritime & supply chain OSINT tools | ![Status](https://img.shields.io/github/last-commit/atlas-bear/osint-tools)                   |
+| [recommended-reading](https://github.com/atlas-bear/recommended-reading)                     | Curated intelligence reading list   | ![Status](https://img.shields.io/github/last-commit/atlas-bear/recommended-reading)           |
+| [supply-chain-management-tools](https://github.com/atlas-bear/supply-chain-management-tools) | Open source management solutions    | ![Status](https://img.shields.io/github/last-commit/atlas-bear/supply-chain-management-tools) |
+| [osint-ai-guide](https://github.com/atlas-bear/osint-ai-guide)                               | AI applications in OSINT            | ![Status](https://img.shields.io/github/last-commit/atlas-bear/osint-ai-guide)                |
+| [mara](https://github.com/atlas-bear/mara)                                                   | Maritime intelligence platform      | ![Status](https://img.shields.io/github/last-commit/atlas-bear/mara)                          |
+
+**Learn More:** [Atlas Bear Academy](https://www.atlasbear.academy) • **Contact:** [support@atlasbear.co](mailto:support@atlasbear.co)
